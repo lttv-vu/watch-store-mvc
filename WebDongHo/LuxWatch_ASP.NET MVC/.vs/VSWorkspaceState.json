@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BanDongHosln",
+    "\\BanDongHosln\\BanDongHo",
+    "\\BanDongHosln\\BanDongHo.Domain",
+    "\\BanDongHosln\\BanDongHo\\Controllers",
+    "\\BanDongHosln\\BanDongHo\\Views",
+    "\\BanDongHosln\\BanDongHo\\Views\\Home",
+    "\\BanDongHosln\\BanDongHo\\Views\\Product",
+    "\\Database"
+  ],
+  "SelectedNode": "\\BanDongHosln\\BanDongHo\\Web.config",
+  "PreviewInSolutionExplorer": false
+}
